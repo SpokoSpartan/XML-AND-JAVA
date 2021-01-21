@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea363e50-0ba8-4226-b02d-ef6d21c41a8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nOKKb26NULCccUy04mhCiPIDOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task1App">
+    <configuration name="Task1App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spot.on.demo.Task1App" />
+      <module name="java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spot.on.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spot.on.demo.Task2App" />
+      <module name="java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spot.on.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spot.on.demo.Task3App" />
+      <module name="java3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spot.on.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1App" />
+        <item itemvalue="Application.Task3App" />
+        <item itemvalue="Application.Task2App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea363e50-0ba8-4226-b02d-ef6d21c41a8f" name="Default Changelist" comment="" />
+      <created>1611255633703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611255633703</updated>
+      <workItem from="1611255640160" duration="1037000" />
+      <workItem from="1611256711752" duration="7316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1985" y="188" width="672" height="706" key="#Task2App" timestamp="1611257291732">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1985" y="188" width="672" height="706" key="#Task2App/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611257291732" />
+    <state x="1784" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611257301538">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1784" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611257301538" />
+    <state x="2134" y="227" width="374" height="629" key="#com.intellij.ide.util.MemberChooser" timestamp="1611263481634">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2134" y="227" width="374" height="629" key="#com.intellij.ide.util.MemberChooser/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611263481634" />
+    <state x="2059" y="288" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611264254262">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2059" y="288" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264254262" />
+    <state width="1872" height="328" key="GridCell.Tab.0.bottom" timestamp="1611264260830">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264260830" />
+    <state width="1872" height="328" key="GridCell.Tab.0.center" timestamp="1611264260830">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.0.center/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264260830" />
+    <state width="1872" height="328" key="GridCell.Tab.0.left" timestamp="1611264260830">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.0.left/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264260830" />
+    <state width="1872" height="328" key="GridCell.Tab.0.right" timestamp="1611264260830">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.0.right/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264260830" />
+    <state width="1872" height="207" key="GridCell.Tab.1.bottom" timestamp="1611264019728">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="207" key="GridCell.Tab.1.bottom/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264019728" />
+    <state width="1872" height="207" key="GridCell.Tab.1.center" timestamp="1611264019728">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="207" key="GridCell.Tab.1.center/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264019728" />
+    <state width="1872" height="207" key="GridCell.Tab.1.left" timestamp="1611264019728">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="207" key="GridCell.Tab.1.left/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264019728" />
+    <state width="1872" height="207" key="GridCell.Tab.1.right" timestamp="1611264019728">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="207" key="GridCell.Tab.1.right/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611264019728" />
+    <state x="343" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1611256779265">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="343" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738/1366.0.1920.1080@0.30.1366.738" timestamp="1611256779265" />
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1611256674771">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup/0.30.1366.738/1366.0.1920.1080@1366.0.1920.1080" timestamp="1611256674771" />
+  </component>
+</project>
